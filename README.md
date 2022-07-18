@@ -17,4 +17,4 @@ Have a nice day.
 
 
 
-Add new line for task 6.
+Add new line for task 6. Test 2.
